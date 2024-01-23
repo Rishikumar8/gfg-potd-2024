@@ -4,8 +4,7 @@ Author : Rishi Kumar Choudhry
 Date : 15/01/2024
 Problem : Grinding Geek
 Difficulty : Medium
-Problem Link : https://www.geeksforgeeks.org/problems/grinding-geek/1
-Video Solution : https://youtu.be/94aTAP85fMk
+
 
 */
 
